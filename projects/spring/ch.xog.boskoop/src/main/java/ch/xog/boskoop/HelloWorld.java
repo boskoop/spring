@@ -4,7 +4,6 @@ package ch.xog.boskoop;
  * Spring bean.
  * 
  * @author buergich
- *
  */
 public class HelloWorld {
 
